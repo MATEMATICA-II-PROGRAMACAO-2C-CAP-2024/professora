@@ -15,3 +15,13 @@
     padding: 24px 0;
     font-size: 28px;
 }
+
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+    display: flex;
+    color: white;
+    background-image: radial-gradient(circle at 87.5% 12.5%, #ff31f2 0, #ff33f5 16.67%, #ff36f4 33.33%, #ff38ef 50%, #db3ae8 66.67%, #b83ce1 83.33%, #963ddb 100%);
+}
